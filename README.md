@@ -67,6 +67,3 @@ The Health and Fitness Tracker CLI is a command-line interface application that 
     ```
     pipenv run python cli.py view-summary
     ```
-
-## Author & License 
-Michael Kiptoo & [MIT LICENSE](LICENSE)
